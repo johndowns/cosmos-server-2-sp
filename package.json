@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@types/documentdb-server": "~0.0.31",
+    "typescript": "~2.6.2"
+  }
+}
