@@ -1,0 +1,17 @@
+{
+  "id": "ORD1",
+  "type": "order",
+  "customer": {
+    "id": "C1"
+  },
+  "items": [
+    {
+      "productId": "P1",
+      "quantity": 6
+    },
+    {
+      "productId": "P2",
+      "quantity": 1
+    }
+  ]
+}
