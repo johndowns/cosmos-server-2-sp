@@ -8,7 +8,7 @@ function getGroupedOrders(productIds: string[]) {
     response.setBody(output);
 }
 
-function getGroupedOrdersImpl(productIds: string[], collection: ICollection) {
+function getGroupedOrdersImpl(productIds: string[], collection: ICollection): CustomersGroupedByProduct[] {
     var outputArray: CustomersGroupedByProduct[] = [];
     
     productIds.forEach(productId => {
