@@ -3,7 +3,7 @@
     "build": "tsc"
   },
   "devDependencies": {
-    "@types/documentdb-server": "~0.0.31",
+    "@types/documentdb-server": "~0.0.32",
     "typescript": "~2.6.2"
   }
 }
